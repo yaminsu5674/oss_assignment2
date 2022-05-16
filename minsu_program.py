@@ -2,6 +2,7 @@ import os
 import json
 import yaml
 
+
 print('Please enter the filename you want to convert with extension :', end=' ')
 name = input()
 filename, file_extension = os.path.splitext(name)
