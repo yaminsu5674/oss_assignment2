@@ -17,7 +17,8 @@ pip install pyyaml
 
 ```bash
 python minsu_program.py
-Please enter the filename you want to convert with extension : #enter in.ext1
+Please enter the filename you want to convert with extension : #in.ext1   
+#You must set the input_file's name as 'in' !!!!
 ```
 
 ## License
